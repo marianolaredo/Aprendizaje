@@ -1,0 +1,314 @@
+2024-05-16 13:38:11,624 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-16 14:23:54,743 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:EjemploSQL:1.0-SNAPSHOT @ C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\pom.xml.
+2024-05-16 14:23:54,743 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:EjemploSQL:1.0-SNAPSHOT @ C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\pom.xml.
+2024-05-16 14:23:56,953 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 14:23:56,955 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\src\main\resources
+2024-05-16 14:23:56,962 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 14:23:56,963 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\src\test\resources
+2024-05-16 14:23:59,644 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:EjemploSQL:1.0-SNAPSHOT @ C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\pom.xml.
+2024-05-16 18:08:53,536 [Worker-81: Creating project "quini"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.quini:quini:0.0.1-SNAPSHOT @ C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini\pom.xml.
+2024-05-16 18:08:54,021 [Worker-81: Creating project "quini"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quini/src/main/java
+2024-05-16 18:08:54,022 [Worker-81: Creating project "quini"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /quini/src/main/resources
+2024-05-16 18:08:54,024 [Worker-81: Creating project "quini"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quini/src/test/java
+2024-05-16 18:08:54,024 [Worker-81: Creating project "quini"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /quini/src/test/resources
+2024-05-16 18:08:54,522 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:08:54,533 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:08:54,541 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:08:54,544 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:10:44,299 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:10:44,309 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:10:44,314 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:10:44,316 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:11:08,410 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:11:08,413 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:11:08,416 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:11:08,418 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:11:56,012 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:11:56,017 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:11:56,025 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:11:56,029 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:12:29,179 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:12:29,185 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:12:29,194 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:12:29,198 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:13:14,987 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:13:14,992 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:13:14,998 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:13:15,003 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:14:17,132 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:14:17,137 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:14:17,145 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:14:17,149 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:14:46,670 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:14:46,677 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:14:46,687 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:14:46,692 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:15:48,142 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:15:48,148 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:15:48,155 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:15:48,158 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:16:14,887 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:16:14,891 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:16:14,899 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:16:14,903 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:17:27,425 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:17:27,428 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:17:27,432 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:17:27,434 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:18:25,695 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:18:25,699 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-16 18:18:25,706 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-16 18:18:25,710 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:02:24,457 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-17 18:07:08,422 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:07:08,491 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:07:08,511 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:07:08,516 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:07:12,229 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:07:12,251 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:07:12,259 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:07:12,262 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:09:50,405 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:09:50,410 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:09:50,418 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:09:50,424 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:10:21,609 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:10:21,616 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:10:21,625 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:10:21,628 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:18:48,108 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:18:48,118 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 18:18:48,160 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 18:18:48,166 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:45:24,593 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:45:24,626 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:45:24,648 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:45:24,666 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:46:54,660 [Worker-25: Launching GeneradorQuini6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:46:54,664 [Worker-25: Launching GeneradorQuini6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:46:54,670 [Worker-25: Launching GeneradorQuini6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:46:54,689 [Worker-25: Launching GeneradorQuini6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:50:01,721 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GRUPO8:Pronosticos_Etapa2:0.0.1-SNAPSHOT @ C:\Users\Mariano\eclipse-workspace\PruebasGrupo8\Pronosticos_Etapa2\pom.xml.
+2024-05-17 19:50:02,148 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:50:02,150 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\PruebasGrupo8\Pronosticos_Etapa2\src\main\resources
+2024-05-17 19:50:02,153 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:50:02,154 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\PruebasGrupo8\Pronosticos_Etapa2\src\test\resources
+2024-05-17 19:54:59,152 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:54:59,159 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:54:59,170 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:54:59,176 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:59:51,595 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:59:51,600 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 19:59:51,624 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 19:59:51,627 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 20:12:35,803 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 20:12:35,806 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 20:12:35,811 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 20:12:35,815 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 20:12:50,940 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 20:12:50,944 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-17 20:12:50,951 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-17 20:12:50,953 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 08:33:29,383 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-18 08:34:32,006 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 08:34:32,032 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 08:34:32,047 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 08:34:32,051 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 08:34:37,627 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 08:34:37,645 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 08:34:37,686 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 08:34:37,690 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 09:25:55,168 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 09:25:55,176 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-18 09:25:55,199 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-18 09:25:55,204 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 08:50:57,682 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-19 08:55:44,779 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 08:55:44,787 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 08:55:44,793 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 08:55:44,795 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 08:58:51,102 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.quini:quini:0.0.1-SNAPSHOT @ C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini\pom.xml.
+2024-05-19 08:58:51,660 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 08:58:51,677 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 08:58:51,693 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 08:58:51,697 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:02:02,546 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.quini:quini:0.0.1-SNAPSHOT @ C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini\pom.xml.
+2024-05-19 09:02:02,603 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-java:jar:8.4.0 is missing, no dependency information available
+2024-05-19 09:02:03,020 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:02:03,026 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:02:03,036 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:02:03,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:02:04,281 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.4.0/mysql-connector-java-8.4.0-sources.jar
+2024-05-19 09:02:04,327 [Worker-16: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for mysql:mysql-connector-java:8.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:sources:8.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-19 09:04:02,243 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.4.0/mysql-connector-java-8.4.0-javadoc.jar
+2024-05-19 09:04:02,250 [Worker-15: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for mysql:mysql-connector-java:8.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:8.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-19 09:07:03,788 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:07:03,792 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:07:03,806 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:07:03,812 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:08:51,106 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:08:51,111 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:08:51,122 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:08:51,128 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:18:44,800 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:18:44,805 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:18:44,813 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:18:44,817 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:18:49,472 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:18:49,477 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:18:49,530 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:18:49,536 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:20:48,589 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.quini:quini:0.0.1-SNAPSHOT @ C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini\pom.xml.
+2024-05-19 09:20:48,632 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-j-8.4.0:jar:8.4.0 is missing, no dependency information available
+2024-05-19 09:20:49,049 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:20:49,056 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:20:49,063 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:20:49,065 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:20:50,127 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-j-8.4.0/8.4.0/mysql-connector-j-8.4.0-8.4.0-sources.jar
+2024-05-19 09:20:50,135 [Worker-15: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for mysql:mysql-connector-j-8.4.0:8.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-j-8.4.0:jar:sources:8.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-19 09:22:01,666 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:22:01,671 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:22:01,683 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:22:01,687 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-19 09:23:08,417 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-j-8.4.0/8.4.0/mysql-connector-j-8.4.0-8.4.0-javadoc.jar
+2024-05-19 09:23:08,425 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for mysql:mysql-connector-j-8.4.0:8.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-j-8.4.0:jar:javadoc:8.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-19 09:25:00,152 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-19 09:25:31,549 [Worker-13: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-j-8.4.0:jar:8.4.0 is missing, no dependency information available
+2024-05-19 09:44:48,736 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-19 09:45:13,448 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [273])
+2024-05-19 09:45:13,465 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-05-19 09:45:13,466 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-05-19 09:45:13,467 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-05-19 09:45:13,468 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-05-19 09:45:13,468 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-05-19 09:45:13,469 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-05-19 09:45:13,470 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-05-19 09:45:13,470 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-05-19 09:45:13,471 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-05-19 09:45:13,472 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-05-19 09:45:13,472 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-05-19 09:45:13,473 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-05-19 09:45:13,474 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-05-19 09:45:13,474 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-05-19 09:45:13,475 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-05-19 09:45:13,476 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-05-19 09:45:13,476 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-05-19 09:45:13,477 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-05-19 09:45:13,477 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-05-19 09:45:13,478 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-05-19 09:45:13,478 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-05-19 09:45:13,479 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-05-19 09:45:13,481 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-05-19 09:45:13,482 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-05-19 09:45:13,482 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-05-19 09:45:13,483 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-05-19 09:45:13,483 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-05-19 09:45:13,484 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-05-19 09:45:13,485 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-05-19 09:45:13,485 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-05-19 09:45:13,486 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-05-19 09:45:13,486 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-05-19 09:45:13,487 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-05-19 09:45:13,487 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-19 09:45:13,488 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-05-19 09:45:13,489 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-05-19 09:45:13,490 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-05-19 09:45:13,494 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2024-05-19 09:45:13,496 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2024-05-19 09:45:13,497 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [441])
+2024-05-19 09:45:13,498 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2024-05-19 09:45:13,499 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2024-05-19 09:45:13,502 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-19 09:45:13,502 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2024-05-19 09:45:13,506 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-05-19 09:45:13,506 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2024-05-19 09:45:13,510 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-05-19 09:45:13,510 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2024-05-19 09:45:13,514 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-05-19 09:45:13,523 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini":
+2024-05-19 09:45:13,530 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-05-19 09:45:13,803 [Worker-4: Launching Executing clean in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-j-8.4.0:jar:8.4.0 is missing, no dependency information available
+2024-05-19 09:45:19,767 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:45:19,768 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\PruebasGrupo8\Pronosticos_Etapa2\src\main\resources
+2024-05-19 09:45:19,776 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:45:19,778 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\PruebasGrupo8\Pronosticos_Etapa2\src\test\resources
+2024-05-19 09:45:21,890 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:45:21,893 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\src\main\resources
+2024-05-19 09:45:21,898 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-19 09:45:21,899 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mariano\eclipse-workspace\argentina-programa-java-ejemplo-conexion-db\src\test\resources
+2024-05-19 09:45:28,260 [Worker-10: Launching Executing install in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mariano\Documents\NetBeansProjects\EjercicioEntrevista\quini":
+2024-05-19 09:45:28,262 [Worker-10: Launching Executing install in C__Users_Mariano_Documents_NetBeansProjects_EjercicioEntrevista_quini] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2024-05-19 09:46:55,211 [Worker-5: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.workspace.cli_0.3.1 [282])
+2024-05-19 09:46:55,214 [Worker-5: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mariano\.p2\pool\plugins\org.eclipse.m2e.workspace.cli_0.3.1.jar
